@@ -25,7 +25,7 @@ GGSIPU'2026.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshanand34)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
--  [Gmail](anandvansh34@gmail.com)
+-  anandvansh34@gmail.com
 
 -  [Linkedin](https://www.linkedin.com/in/anandvansh/)
 
