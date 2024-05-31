@@ -20,6 +20,8 @@ GGSIPU'2026.
 </div>
 
 ---
+###📓My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshanand34&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - contact: anandvansh34@gmail.com
 
