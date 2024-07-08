@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a 2nd Year student at IP University persuing my B-Tech.
+I am a 3rd Year student at IP University persuing my B-Tech in IT.
 
 * 👨‍💻I am an aspiring software developer.*
 
