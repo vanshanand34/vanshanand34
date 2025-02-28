@@ -7,7 +7,7 @@ GGSIPU'2026.
 ---
 
 - 🔭 I’m a backend developer with a specialization in Django
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Reactjs and Nextjs
 
 🛠️Languages and Tools:
 <div>
@@ -17,10 +17,17 @@ GGSIPU'2026.
   <img width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">&nbsp;
   <img width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg">&nbsp;
   <img width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+  <img width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+  <img width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
 </div>
+
+### Check my portfolio:
+- [Link](https://react-projects-eight-khaki.vercel.app)
 
 ---
 ### My Stats:
+
+![](https://komarev.com/ghpvc/?username=vanshanand34)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshanand34)](https://github.com/anuraghazra/github-readme-stats)
 ---
