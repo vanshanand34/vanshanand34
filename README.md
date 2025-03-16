@@ -22,7 +22,7 @@ GGSIPU'2026.
 </div>
 
 ### Check my portfolio:
-- [Link](https://react-projects-eight-khaki.vercel.app)
+- [Link](https://vansh-anand-portfolio.vercel.app/)
 
 ---
 ### My Stats:
