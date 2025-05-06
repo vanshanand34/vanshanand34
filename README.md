@@ -3,12 +3,12 @@
 ### I'm an Aspiring Software Developer and
 ### Pre final year B-Tech student at GTBIT (IP)
 
-
+<br/><br/>
 
 - Full Stack Developer
 - Backend Specialization in Django and Frontend in ReactJs and NextJs
 
-
+<br/>
 
 # 🛠️Development Languages and Tools:
 <div>
@@ -28,6 +28,7 @@
   <img width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">&nbsp;
 </div>
 
+<br/>
 
 ### Programming Languages:
 
@@ -37,12 +38,12 @@
   <img width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">&nbsp;
 </div>
 
-
+<br/><br/>
 
 ### Check my portfolio:
 - [https://vansh-anand-portfolio.vercel.app](https://vansh-anand-portfolio.vercel.app/)
 
-
+<br/>
 
 ### My Stats:
 
