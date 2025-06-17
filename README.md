@@ -19,7 +19,6 @@
   <img width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"> &nbsp;
   <img width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">&nbsp;
   <img width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg">&nbsp;
-
   <img width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">&nbsp;
   <img width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">&nbsp;
   <img width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">&nbsp;
@@ -49,9 +48,9 @@
 
 ![](https://komarev.com/ghpvc/?username=vanshanand34)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshanand34)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshanand34&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
-![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshanand34&show=prs_merged,prs_merged_percentage&theme=light)
+![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshanand34&show=prs_merged,prs_merged_percentage&theme=discord_old_blurple)
 
 
 
