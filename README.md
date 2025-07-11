@@ -4,7 +4,7 @@
 <h3>I'm</h3>
 
 - An Aspiring Software Developer
-- Pre final year B-Tech student at GTBIT (IP)
+- Final year B-Tech student at GTBIT (IP)
 - Full Stack Developer with Backend Specialization in Django and Frontend in ReactJs and NextJs
 - Also interested in low level programming mainly using cpp
 - Learning DSA
